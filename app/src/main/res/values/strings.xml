@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">G12 Rent a Car App</string>
+    <string name="string_nav_car_animations">Car Animations</string>
+    <string name="string_search">Search</string>
+    <string name="string_edit">Rented Cars</string>
+    <string name="suv_hatchback_etc">SUV, Hatchback etc.</string>
+    <string name="rent">Rent</string>
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+    <string name="all_cars">All Cars</string>
+    <string name="available_car_model_for_renting">Available Car Model for Renting</string>
+    <string name="available_car_type_for_renting">Available Car Type for Renting</string>
+    <string name="car_production_year">Car Production Year</string>
+    <string name="renting_price">Renting Price</string>
+    <string name="car_plate">Car Plate</string>
+    <string name="add_car">Add Car</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_car_model">Delete: Car Model</string>
+    <string name="remove">Remove</string>
+    <string name="done">Done</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="left_right">Left-Right</string>
+    <string name="right_left">Right-Left</string>
+    <string name="bounce">Bounce</string>
+    <string name="bottom_top">Bottom-Top</string>
+    <string name="fade_in">Fade In</string>
+    <string name="fade_out">Fade Out</string>
+    <string name="fade_in_out">Fade In-Out</string>
+    <string name="car_model">Car Model</string>
+    <string name="search">Search</string>
+    <string name="showroom">Showroom</string>
+    <string name="for_renting">For Renting</string>
+</resources>
